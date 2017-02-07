@@ -1,2 +1,6 @@
 wine
 orange juice
+beer
+milkshake
+water
+coke
